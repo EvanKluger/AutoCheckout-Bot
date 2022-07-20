@@ -8,5 +8,5 @@ This is a Repository with code for an AutoCheckout Bot. An Auto Checkout Bot is 
 Here is where we are at so far:
 
 
-Best_Buy_Airpods.py -> Python code that uses Selenium to autocheckout A pair of AirPods 2nd Generation from Best Buy. 
+Best_Buy_Airpods.py -> Python code that uses Selenium to autocheckout a pair of AirPods 2nd Generation from Best Buy on Google Chrome. 
 The URLs and other buttons can be replaced to setup a code to buy a different product from any website.
